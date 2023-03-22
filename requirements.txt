@@ -1,0 +1,4 @@
+mysql-connector-python~=8.0.32
+pendulum~=2.1.2
+python-decouple~=3.8
+prestashop-orders-client~=1.0.0
